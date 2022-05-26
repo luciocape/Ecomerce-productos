@@ -1,0 +1,17 @@
+table{
+
+    border-collapse: collapse;
+
+}
+
+.comentarios{
+
+    overflow: scroll;
+
+}
+
+.producto img{
+
+    width: 400px;
+
+}
